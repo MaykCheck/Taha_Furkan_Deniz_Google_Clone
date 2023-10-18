@@ -1,0 +1,43 @@
+#links {
+    text-align: right;
+  
+}
+
+#menutopright {
+    max-width: 5%;
+    margin: 4px 2px;
+    padding: 20px;
+
+}
+
+.signinbutton {
+    background-color: #3c51ca;
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 12px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+#gmaillink {
+    margin-right: 10px;
+}
+
+#imagesearchlink {
+    margin-right: 10px;
+}
+
+#dotmargin {
+    margin-right: 15px;
+}
+
+.searchbar {
+    text-align: center;
+    padding: 14%;
+}
